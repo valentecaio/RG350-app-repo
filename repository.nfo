@@ -1,5 +1,9 @@
-#GAMES
-
 #EMULATORS
 
-regba_RG350_valentecaio_2020-05-19.opk|ReGBA|2019|Game Boy Advance emulator.
+regba_PLAYGO_valentecaio_2020-04-19.opk|ReGBA|20-04-13|ReGBA - this version supports L2 and R2 buttons in the PlayGo.
+regba_RG350_valentecaio_2020-04-13.opk|ReGBA|20-04-13|ReGBA - this version supports L2 and R2 buttons in the RG350.
+regba_RG350_valentecaio_2020-04-30.opk|ReGBA|20-04-30|ReGBA - this version supports all RG350 buttons + the right analog.
+regba_RG350_valentecaio_2020-05-19.opk|ReGBA|20-05-19|ReGBA - this version supports all RG350 buttons + the right analog + external USB joystick.
+
+#FIRMWARE
+rg350-update-valentecaio-2020-05-17_based_on_ROGUE_1.7.9.9.opk|ROGUE updater v1.7.9.9 custom|20-05-17|ROGUE updater - A custom version o ROGUE that enables the driver for Generick USB Joysticks. Based on the ROGUE 1.7.9.9.
