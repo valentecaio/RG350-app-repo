@@ -4,6 +4,7 @@ regba_PLAYGO_valentecaio_2020-04-19.opk|ReGBA|20-04-13|ReGBA - this version supp
 regba_RG350_valentecaio_2020-04-13.opk|ReGBA|20-04-13|ReGBA - this version supports L2 and R2 buttons in the RG350.
 regba_RG350_valentecaio_2020-04-30.opk|ReGBA|20-04-30|ReGBA - this version supports all RG350 buttons + the right analog.
 regba_RG350_valentecaio_2020-05-19.opk|ReGBA|20-05-19|ReGBA - this version supports all RG350 buttons + the right analog + external USB joystick.
+pcsx4all_valentecaio_2020-07-16.opk|pcsx4all|20-07-16|pcsx4all - this version supports USB gamepads in the RG350.
 
 #FIRMWARE
 rg350-update-valentecaio-2020-05-17_based_on_ROGUE_1.7.9.9.opk|ROGUE updater v1.7.9.9 custom|20-05-17|ROGUE updater - A custom version o ROGUE that enables the driver for Generick USB Joysticks. Based on the ROGUE 1.7.9.9.
